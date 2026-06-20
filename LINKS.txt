@@ -1,0 +1,3 @@
+Video de apresentacao: conforme observação do README.md
+Repositorio (opcional, se publico): https://github.com/ADN3000/ir-maritime-target-detection
+Colecao bruta (se hospedada externamente): Disponível no repositório GitHub do projeto (data/arxiv_raw.jsonl).
