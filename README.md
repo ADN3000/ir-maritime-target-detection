@@ -60,9 +60,9 @@ _(Coleção de aproximadamente 2.000 artigos do ArXiv (2018–2026), pré-proces
 - **Categorias do ArXiv consideradas:** cs.AI (Artificial Intelligence), cs.CV (Computer Vision and Pattern Recognition), cs.LG (Machine Learning), eess.IV (Image and Video Processing) e eess.SP (Signal Processing).
 - **Janela temporal:** 2018 a 2026.
 - **Tamanho final da coleção:** aproximadamente 2.000 artigos científicos coletados do ArXiv e utilizados nos experimentos de recuperação e avaliação.
-- **Pré-processamento:**conversão para letras minúsculas, remoção de caracteres não relevantes, tokenização por expressões regulares e remoção de stopwords da língua inglesa com NLTK; não foram aplicados stemming ou lematização. 
+- **Pré-processamento:** conversão para letras minúsculas, remoção de caracteres não relevantes, tokenização por expressões regulares e remoção de stopwords da língua inglesa com NLTK; não foram aplicados stemming ou lematização. 
 - **Modelos implementados:** BM25 como baseline probabilístico, KNN com representação TF-IDF e Similaridade do Cosseno, e modelo híbrido baseado em Reciprocal Rank Fusion (RRF).
-- **Módulo(s) de aprofundamento:**M5 – Ranking Híbrido, implementado por meio da técnica Reciprocal Rank Fusion (RRF) para combinar os rankings gerados pelos recuperadores BM25 e KNN..
+- **Módulo(s) de aprofundamento:** M5 – Ranking Híbrido, implementado por meio da técnica Reciprocal Rank Fusion (RRF) para combinar os rankings gerados pelos recuperadores BM25 e KNN..
 
 ## Uso de assistentes de IA generativa
 
